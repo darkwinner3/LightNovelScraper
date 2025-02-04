@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@jitsi/robotjs": "^0.6.13",
+    "@nut-tree-fork/nut-js": "^4.2.4",
+    "chokidar": "^4.0.3",
+    "puppeteer": "^24.1.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-adblocker": "^2.13.6",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.8",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "puppeteer-real-browser": "^1.4.0"
+  }
+}
